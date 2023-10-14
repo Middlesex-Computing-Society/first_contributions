@@ -3,7 +3,7 @@
 
 Welcome to our Members List Project! We're excited that you want to contribute. Whether you're new to open source or an experienced developer, we appreciate you for contributing to this project.
 
-This guide will walk you through adding your name and MISIS number to our repository's `MEMBERS_LIST.md` file using a pull request (PR). Please follow these steps:
+This guide will walk you through adding your name and GitHub Username to our repository's `MEMBERS_LIST.md` file using a pull request (PR). Please follow these steps:
 
 ## Step 1: Fork the Repository
 
