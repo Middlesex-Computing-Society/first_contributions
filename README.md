@@ -70,4 +70,3 @@ This guide will walk you through adding your name and GitHub Username to our rep
 - Congratulations, you've successfully contributed to our project!
 
 Thank you for your contribution, and welcome to the open-source community!
-```
