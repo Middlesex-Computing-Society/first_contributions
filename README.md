@@ -1,4 +1,3 @@
-
 # How to Contribute to the Members List Project
 
 Welcome to our Members List Project! We're excited that you want to contribute. Whether you're new to open source or an experienced developer, we appreciate you for contributing to this project.
@@ -41,6 +40,7 @@ This guide will walk you through adding your name and GitHub Username to our rep
 
 - Save the `MEMBERS_LIST.md` file.
 - Stage and commit your changes with a descriptive commit message:
+- Your commit message should be in the following format "your-name: Added my details to MEMBERS_LIST.md file"
   ```sh
   git add MEMBERS_LIST.md
   git commit -m "Harith: Added my details to MEMBERS_LIST.md file."
