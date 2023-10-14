@@ -1,1 +1,2 @@
 - Harith Onigemo (Computer Systems Engineering) - @harithmetic1
+- Marc Arzoumanian (Computer Systems Engineering) - @marc2482
