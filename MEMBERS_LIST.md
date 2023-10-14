@@ -1,1 +1,2 @@
 - Harith Onigemo (Computer Systems Engineering) - @harithmetic1
+- Ruramai Muchenga (Computer Systems Engineering) -  - @ruramaimuchenga
