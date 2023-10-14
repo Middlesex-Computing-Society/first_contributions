@@ -1,1 +1,2 @@
 - Harith Onigemo (Computer Systems Engineering) - @harithmetic1
+- Stephanie Sunil (Information Technology) - @stephaniegogo251
