@@ -1,1 +1,2 @@
 - Harith Onigemo (Computer Systems Engineering) - @harithmetic1
+- Fawaaz Shaikh (Information Technology) - @fawaaz-coder
